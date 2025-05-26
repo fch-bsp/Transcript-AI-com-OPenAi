@@ -5,6 +5,9 @@
 Uma aplicação moderna para transcrição e resumo de conteúdo de áudio e vídeo utilizando inteligência artificial.
 
 ## 📋 Visão Geral
+![Image](https://github.com/user-attachments/assets/9292fdd5-02a2-4218-8f3a-3117e318a283)
+![Image](https://github.com/user-attachments/assets/44b1da07-2395-4c66-874d-47f3ead0c4c6)
+![Image](https://github.com/user-attachments/assets/5a10fc94-45d6-4c3d-b8ff-f6055a6bdedb)
 
 Transcript AI é uma aplicação web desenvolvida com Streamlit que permite aos usuários fazer upload de arquivos de áudio ou vídeo e obter transcrições precisas e resumos concisos do conteúdo. A aplicação utiliza a API da OpenAI (Whisper para transcrição e GPT-3.5 para resumo) para fornecer resultados de alta qualidade.
 
